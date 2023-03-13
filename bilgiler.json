@@ -1,0 +1,18 @@
+{
+	"pizzaBilgileri": {
+	   "1": [{"idBilgisi": 1, "pizzaAdi": "Klasik", "pizzaFiyat": 20}],
+	   "2": [{"idBilgisi": 2, "pizzaAdi": "Margarita", "pizzaFiyat": 15}],
+	   "3": [{"idBilgisi": 3, "pizzaAdi": "Türk Pizza", "pizzaFiyat": 50}],
+	   "4": [{"idBilgisi": 4, "pizzaAdi": "Sade Pizza", "pizzaFiyat": 10}],
+	   "5": [{"idBilgisi": 5, "pizzaAdi": "Vegan Pizza", "pizzaFiyat": 30}]
+    },
+	"sosBilgileri": {
+		"1": [{"idBilgisi": 1, "sosAdi": "Zeytin", "sosFiyat": 5}],
+		"2": [{"idBilgisi": 2, "sosAdi": "Mantar", "sosFiyat": 7.5}],
+		"3": [{"idBilgisi": 3, "sosAdi": "Keçi Peyniri", "sosFiyat": 10.75}],
+		"4": [{"idBilgisi": 4, "sosAdi": "Et", "sosFiyat": 15}],
+		"5": [{"idBilgisi": 5, "sosAdi": "Soðan", "sosFiyat": 5}],
+		"6": [{"idBilgisi": 6, "sosAdi": "Mýsýr", "sosFiyat": 5}]
+    }
+
+}
