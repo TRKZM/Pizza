@@ -1,6 +1,6 @@
 ## Global Ai Hub Akbank Python Bootcamp için Python Pizza Sipariş Sistemi
 
-Pizza sipariş sisteminde bilgileri JSON olarak aldım ve standart kütüphaneler haricinde menü görseli için PrettyTable kullandım.   
+Pizza sipariş sisteminde bilgileri JSON olarak aldım ve standart kütüphaneler haricinde menü görseli için PrettyTable kullandım. Pizza logosunu daha düzenli olması için logo.txt olarak düzenleyip çağırdım. 
 
 ### Kullanılan Kütüphaneler
 
